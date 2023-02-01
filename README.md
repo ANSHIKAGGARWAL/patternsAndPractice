@@ -11,3 +11,6 @@ Pattern 3 will display output like shown below
 
 Pattern 4 will display output like shown below
 ![Screenshot (54)](https://user-images.githubusercontent.com/121662708/216026847-a7e5c2e3-332e-4783-ba0e-7207b67f6c0b.png)
+
+Pattern 5 will display output like shown below
+![Screenshot (55)](https://user-images.githubusercontent.com/121662708/216029112-c99258ee-18ab-4f7a-a13f-1e2481182001.png)
