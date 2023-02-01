@@ -8,3 +8,6 @@ Pattern 2 will display output like shown below
 
 Pattern 3 will display output like shown below
 ![Screenshot (52)](https://user-images.githubusercontent.com/121662708/216022954-2b976596-a292-4e1d-942d-714a37f466f2.png)
+
+Pattern 4 will display output like shown below
+![Screenshot (54)](https://user-images.githubusercontent.com/121662708/216026847-a7e5c2e3-332e-4783-ba0e-7207b67f6c0b.png)
