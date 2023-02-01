@@ -17,3 +17,6 @@ Pattern 5 will display output like shown below
 
 Pattern 6 will display output show below
 ![Screenshot (56)](https://user-images.githubusercontent.com/121662708/216031342-2d43c820-c0ff-4d5b-9e47-1920d4ac7304.png)
+
+Pattern 7 will display output as shown below
+![Screenshot (59)](https://user-images.githubusercontent.com/121662708/216036680-65257dbf-dd60-44d5-84b4-d65ad23812da.png)
