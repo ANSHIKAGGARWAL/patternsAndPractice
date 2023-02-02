@@ -20,3 +20,6 @@ Pattern 6 will display output show below
 
 Pattern 7 will display output as shown below
 ![Screenshot (59)](https://user-images.githubusercontent.com/121662708/216036680-65257dbf-dd60-44d5-84b4-d65ad23812da.png)
+
+Pattern 8 will display output as shown below
+![Screenshot (60)](https://user-images.githubusercontent.com/121662708/216268241-beb9515d-5ea9-4c95-bc4c-f7973c05fb54.png)
