@@ -26,3 +26,6 @@ Pattern 8 will display output as shown below
 
 Pattern 9 will dispaly output as shown below
 ![Screenshot (62)](https://user-images.githubusercontent.com/121662708/216273469-094d41b7-02f0-4346-974e-19d37dde3de8.png)
+
+Pattern 10 will display output as shown below
+![Screenshot (63)](https://user-images.githubusercontent.com/121662708/216286084-d0ee93b3-2f11-4a0c-9d12-1f3311558c3b.png)
